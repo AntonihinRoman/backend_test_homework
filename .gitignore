@@ -1,2 +1,2 @@
-backend_test_homework/*.doc
+*.doc
 # Игнорировать файлы с раширением .doc в директории backend_test_homework
